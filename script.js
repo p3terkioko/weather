@@ -43,3 +43,4 @@ document.querySelector(".search button").addEventListener("click", function () {
 
 weather.fetchWeather("Nairobi");
 
+console.log("hello")
